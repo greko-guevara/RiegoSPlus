@@ -1,0 +1,303 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|instalación estándar Riego.P|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\Paquete Riego.P
+
+[Package|instalación estándar Riego.P|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|instalación estándar Riego.P|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|instalación estándar Riego.P|Files Found]
+
+[Package|instalación estándar Riego.P|Files Released]
+
+[Package|instalación estándar Riego.P|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|instalación estándar Riego.P|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|instalación estándar Riego.P|Files Added]
+
+[Package|instalación estándar Riego.P|Files Removed]
+
+[Package|instalación estándar Riego.P|Files In Project]
+C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\RiegoP.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINDOWS\system32\msjet35.dll=Yes
+C:\WINDOWS\system32\msjter35.dll=Yes
+C:\WINDOWS\system32\msjint35.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\msrd2x35.dll=Yes
+C:\WINDOWS\system32\msrepl35.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|instalación estándar Riego.P|Configure Registry Files]
+Applicable=No
+
+[Package|instalación estándar Riego.P|Configure Remote Servers]
+Applicable=No
+
+[Package|instalación estándar Riego.P|Install Locations]
+C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\RiegoP.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|instalación estándar Riego.P|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\RiegoP.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|instalación estándar Riego.P|Distribution]
+Type=single
+Size=
+Title=Riego.P
+
+[Package|instalación estándar Riego.P|IconGroups]
+Group0=Riego.P
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|instalación estándar Riego.P|Riego.P]
+Icon1=RiegoP.exe
+Title1=Riego.P
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|instalación estándar Riego.P|Package]
+PackageFolder=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\Paquete Riego.P
+ProjectFolder=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P
+ServerSideCab=
+File1=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\Paquete Riego.P\setup.exe
+File2=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\Paquete Riego.P\Setup.Lst
+File3=C:\Documents and Settings\Greko\Mis documentos\TEC\Programada de riego P\Paquete Riego.P\RiegoP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Instalador RiegoS plus
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=No
+Excel=No
+Exchange=No
+Text=No
+Jet 2.x=No
+Lotus=No
+Paradox=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao350.dll=Yes
+C:\WINDOWS\system32\msjet35.dll=Yes
+C:\WINDOWS\system32\msjter35.dll=Yes
+C:\WINDOWS\system32\msjint35.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\msrd2x35.dll=Yes
+C:\WINDOWS\system32\msrepl35.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\RiegoS PLUS\RiegoS plus\RiegoS plus.exe=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Documents and Settings\Greko\Escritorio\RiegoP.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao350.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x35.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl35.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Programada de riego P\Programacion RiegoP\RiegoP.exe=$(AppPath)
+C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\RiegoS PLUS\RiegoS plus\RiegoS plus.exe=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Greko\Escritorio\RiegoP.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Programada de riego P\Programacion RiegoP\RiegoP.exe=No
+C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\RiegoS PLUS\RiegoS plus\RiegoS plus.exe=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=RiegoS plus
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=RiegoP
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|RiegoP]
+Icon1=RiegoP.exe
+Title1=RiegoP
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Instalador RiegoS plus
+ProjectFolder=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\RiegoS PLUS\RiegoS plus
+ServerSideCab=
+File1=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Instalador RiegoS plus\setup.exe
+File2=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Instalador RiegoS plus\Setup.Lst
+File3=C:\Documents and Settings\Greko\Mis documentos\Proyectos y Cursos\Instalador RiegoS plus\RiegoS plus.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
